@@ -7,7 +7,6 @@ RECIPES=$(find ./recipes/ | grep "\.md$" | sed 's/\.\/recipes\///g' \
           | sed 's/.*/"\0"/g' | awk '{print}' ORS=', ' | sed 's/, $//g')
 REPLACE="let commitSetRecipes = [$RECIPES];"
 
-echo "sed -i.bak \"s/let commitSetRecipes = \[.*\];/${REPLACE}/\" ./index.html"
 sed -i.bak "s/let commitSetRecipes = \[.*\];/${REPLACE}/" ./index.html
 rm ./index.html.bak
 git add ./index.html
