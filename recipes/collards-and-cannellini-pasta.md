@@ -1,4 +1,4 @@
-# Collards and Cannellini Pasta
+# COLLARDS AND CANNELLINI PASTA
 ## info  
 * About 30 minutes prep, 90 minutes total
 * about 6 servings  
