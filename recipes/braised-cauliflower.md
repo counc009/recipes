@@ -31,7 +31,13 @@
 1. Deglaze with the wine and scrape any fond off the bottom of the pot.
 1. Add the cauliflower back to the pot and add chicken stock to cover about
    half way up the cauliflower.
-1. Bring to a low simmer and then transfer to the oven and cook for 45 minutes.
+1. Bring to a low simmer and then cover and transfer to the oven and cook for
+   45 minutes.
+
+## notes
+* The resulting sauce is still rather loose, to thicken, remove the cauliflower
+  and heat on the stove to let thicken. You could also add a starch to help
+  thicken it.
 
 ## based on
 * https://youtu.be/zp9zjPdksrk
