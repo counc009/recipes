@@ -1,7 +1,5 @@
 # RECIPE BOOK
 
-When setting up this repository, after cloning invoke `git config --local core.hooksPath .githooks/`
-
 A super minimal recipe website – great for keeping track of family recipes, mods to ones you find online, or have created yourself!
 
 **See it in action here: [jeffreythompson.org/recipes](http://jeffreythompson.org/recipes)**
@@ -13,7 +11,18 @@ Features:
 * Auto-generated links to a Google image search for that dish, recipes on Serious Eats and Google, and for restaurants on Yelp (in case you burn something and need takeout fast)  
 * To save your place while scrolling up around on the page, click the step you're on to highlight it; click it again to remove the highlight, or use the left/right arrow keys to advance  
 * Easily customized and code is (mostly) really well annotated 🙃  
+* Static code suitable for GitHub Pages (when the included pre-commit hooks are
+  used)
 
+## SETUP INSTRUCTIONS
+When setting up this repository, after cloning invoke
+```sh
+git config --local core.hooksPath .githooks/
+```
+from the root of the working tree. This will setup a pre-commit hook which will
+automatically update the list of recipes found in `index.html` upon commit.
+This avoids the need for PHP which was required by the original implementation,
+which made it insuitable for use on GitHub Pages.
 
 ## MORE INFO  
 * [Recipe format](#recipe-format)
