@@ -35,8 +35,9 @@
 			<!-- footer -->
 			<section id="footer">
 				<ul>
-					<li>A super minimal recipe website by <a href="http://www.jeffreythompson.org">Jeff Thompson</a></li>
-					<li><a href="https://github.com/jeffThompson/Recipes">Source code
+					<li>A super minimal recipe website by <a href="http://www.jeffreythompson.org">Jeff Thompson</a>
+          <br>Adapted for GitHub Pages by <a href="https://acc240.com">Aaron Councilman</a></li>
+					<li><a href="https://github.com/counc009/recipes">Source code
 					
 					<!-- external link icon -->
 					<!-- via: https://fontawesome.com/icons/external-link-alt -->
@@ -49,10 +50,12 @@
 		</div>
 	</body>
 
-	<!-- combo php/js to get all recipes in the folder -->
 	<script>
-		<?php $files = array_map('basename', glob('recipes/*.md')); ?>
-  	let files = <?php echo json_encode($files) ?>;
+    // The following line is replaced by pre-commit hooks to list all recipes
+    // DO NOT MODIFY LINE BELOW MANUALLY
+    let commitSetRecipes = [];
+    // DO NOT MODIFY LINE ABOVE MANUALLY
+    let files = commitSetRecipes;
 	</script>
 	
 	<!-- javascript does the rest :) -->
