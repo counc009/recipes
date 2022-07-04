@@ -12,7 +12,7 @@
 * 3-4 cloves of garlic, crushed
 * 2 teaspoons grated ginger
 * 1 teaspoon sweet curry powder
-* sprinkle of red pepper flakes
+* pinch of red pepper flakes
 * splash of white cooking wine
 * about 2 cups chicken stock
 
