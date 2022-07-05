@@ -18,7 +18,7 @@ For the cake:
 * 4 large eggs (at room temperature)
 * 150 g toasted sugar (see note below)
 * 150 g caramel syrup
-* 1/2 cup unsalted butter (cup into 1/2 inch cubes)
+* 1/2 cup unsalted butter (cut into 1/2 inch cubes)
 * 250 ml full fat milk
 * 3 teaspoons vanilla extract
 * 3 teaspoons vegetable oil
@@ -39,7 +39,7 @@ For the caramel syrup:
 1. Cook until the syrup has a dark amber color.
 1. Add the remaining 1/2 cup water slowly while stirring constantly, continue
    cooking to darken and thicken slightly.
-1. Remove from heat, transfer to a heatproof and let cool.
+1. Remove from heat, transfer to a heatproof container and let cool.
 
 For the cake:
 1. Preheat oven to 350°F about 20 minutes before you intend to bake the cake.
@@ -86,7 +86,7 @@ For preparation:
 
 ## notes
 * For information on toasted sugar, see
-  https://www.seriouseats.com/dry-toasted-sugar-granulated-caramel-recipe
+  <https://www.seriouseats.com/dry-toasted-sugar-granulated-caramel-recipe>.
 
 ## based on
 * https://www.recipetineats.com/my-very-best-vanilla-cake/
