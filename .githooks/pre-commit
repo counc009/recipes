@@ -4,7 +4,7 @@
 # index.html page appropriately
 
 RECIPES=$(find ./recipes/ | grep "\.md$" | sed 's/\.\/recipes\///g' \
-          | sed 's/.*/"\0"/g' | awk '{print}' ORS=', ' | sed 's/, $//g')
+          | sed 's/.*/"\0"/g' | sort | awk '{print}' ORS=', ' | sed 's/, $//g')
 REPLACE="let commitSetRecipes = [$RECIPES];"
 
 sed -i.bak "s/let commitSetRecipes = \[.*\];/${REPLACE}/" ./index.html
