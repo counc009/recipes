@@ -21,7 +21,7 @@
 * 1 tablespoon unsalted butter
 
 ## steps  
-1. Preheat over to 350°F
+1. Preheat oven to 350°F
 1. Heat 2 teaspoons of vegetable oil in a dutch oven or other oven-safe pot
    over medium heat.
 1. Sprinkle the cauliflower quarters with salt and pepper on the cut sides.
@@ -35,18 +35,20 @@
    powder, paprika, and red pepper flakes. Sautee until aromatic and then mix
    into the onion and carrots.
 1. Deglaze with the wine and scrape any fond off the bottom of the pot.
-1. Add the potatoes, and then nestle the cauliflower pieces onto them. Add the
-   chicken stock to cover about half to three quarters of the way up the
+1. Add the potatoes, and then nestle the cauliflower pieces on top of them. Add
+   the chicken stock to cover about half to three quarters of the way up the
    cauliflower.
 1. Bring to a low simmer and then cover and transfer to the oven and cook for
-   45 minutes.
+   about 45 minutes until the cauliflower and potatoes are fork tender.
 1. Remove from oven, and remove the cauliflower and potatoes into a separate
-   bowl. Place over medium heat and bring to a lively simmer. Remove about
-   1/2 a cup of the liquid into a heat-proof cup and whisk in the corn starch.
-   Pour this slurry back in, and mix together. Taste for seasoning and adjust
-   as needed.
-1. When the sauce has reduced slightly and clings to a spoon but still drips
-   off slowly, turn off the heat and mix in the tablespoon of butter.
+   bowl. Place the liquid over medium heat and bring to a lively simmer. Remove
+   about 1/2 a cup of the liquid into a heat-proof cup and whisk in the corn
+   starch.  Pour this slurry back in, and mix together. Taste for seasoning and
+   adjust as needed.
+1. When the sauce has reduced to the point it clings to a spoon but still drips
+   off slowly, turn off the heat and mix in the tablespoon of butter until
+   melted.
+1. Return the cauliflower and potatoes to the pot and serve.
 
 ## based on
 * https://youtu.be/zp9zjPdksrk
