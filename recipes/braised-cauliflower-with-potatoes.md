@@ -1,4 +1,4 @@
-# BRAISED CAULIFLOWER
+# BRAISED CAULIFLOWER WITH POTATOES
 ## info  
 * About 30 minutes prep, 120 minutes total
 * about 6 servings  
