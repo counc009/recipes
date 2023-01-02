@@ -29,8 +29,9 @@
    minutes, undisturbed. Flip the pieces onto the other cut side and sear for
    about another 5 minutes. Adjust the temperature if needed to avoid burning.
    Remove the cauliflower from the pot.
-1. Add the onion and carrots, and sprinkle lightly with salt and pepper. Sautee
-   until softened and the onions are lightly browned.
+1. Add the remaining teaspoon of oil and the onion and carrots, and sprinkle
+   lightly with salt and pepper. Sautee until softened and the onions are
+   lightly browned.
 1. Clear space in the middle of the pot and add the garlic, ginger, curry
    powder, paprika, and red pepper flakes. Sautee until aromatic and then mix
    into the onion and carrots.
