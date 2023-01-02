@@ -23,14 +23,14 @@
 ## steps  
 1. Add 1.5 tablespoons of oil to a heavy bottom pot or dutch oven over medium
    heat. When hot, add the chorizo, using a wooden spoon to break it into small
-   pieces. Stir regularly until cooked through
+   pieces. Stir regularly until cooked through.
 1. Remove the chorizo using a slotted spoon into a bowl and set aside.
 1. Add the remaining tablespoon of oil. Add the onion and continue stirring
    until it begins to soften. If the fond left by the chorizo threatens to
    burn, add a splash of water to keep it from burning.
 1. Add garlic, paprika, and cayenne and continue stirring until fragrant, about
    30 seconds.
-1. Deglaze the pot with the reg wine vinegar, stir to scrape up the fond. Add
+1. Deglaze the pot with the red wine vinegar, stir to scrape up the fond. Add
    the worcestershire and stir to combine.
 1. Add the collards in batches, sprinkling with salt and pepper between each
    handful. Stir and let the collards wilt a little before adding the chicken
