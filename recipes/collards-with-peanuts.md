@@ -50,7 +50,7 @@
 * For a vegetarian or vegan option, use a high quality vegetable stock in place
   of chicken stock.
 
-### serving suggestions
-* Bake two sweet potatoes, cut into thick slices, and serve in the stew.
-* Roast cubed potatoes at 425 until crisp, and serve on top of the stew.
-* Serve with thick sliced bread.
+* Serving Suggestions
+  - Bake two sweet potatoes, cut into thick slices, and serve in the stew.
+  - Roast cubed potatoes at 425 until crisp, and serve on top of the stew.
+  - Serve with thick sliced bread.
