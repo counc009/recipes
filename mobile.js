@@ -15,6 +15,8 @@ async function setupWakelock() {
     } catch (err) {
       console.log("Failed to acquire wake lock, ignoring");
     }
+  } else {
+    console.log("Wake lock feature not available, ignoring");
   }
 }
 
