@@ -1,6 +1,6 @@
 const urlParams = new URLSearchParams(window.location.search);
 
-if (urlParams.get('stayon')) {
+async function setupWakelock() {
   if ("wakelock" in navigator) {
     let wakeLock = null;
 
@@ -16,4 +16,8 @@ if (urlParams.get('stayon')) {
       console.log("Failed to acquire wake lock, ignoring");
     }
   }
+}
+
+if (urlParams.get('stayon')) {
+  setupWakelock();
 }
